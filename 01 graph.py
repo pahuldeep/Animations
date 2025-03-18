@@ -1,7 +1,7 @@
 from manim import *
 import networkx as nx
 
-nxgraph = nx.erdos_renyi_graph(14, 0.5)
+nxgraph = nx.erdos_renyi_graph(10, 0.5)
 
 class ErdosRenyiGraph(Scene):
     def construct(self):
