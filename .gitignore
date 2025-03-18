@@ -1,0 +1,4 @@
+# write a code for ignoring the files
+
+media
+*__pycache__
